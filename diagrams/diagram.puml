@@ -60,7 +60,7 @@ System_Boundary(c1, "edx-platform: edx-redfid", $link="https://github.com/eol-uc
             
                 Container(xblocks6, "eolconditional-xblock", $link="https://github.com/eol-uchile/eol-conditional-xblock.git/commit/725b8eac92418a70b5a5081e953539477f459a60")
             
-                Container(xblocks7, "eolcontainer-xblock", $link="https://github.com/eol-uchile/eol-container-xblock.git/commit/747b14c92559540ff47a44891f7da1393c2fffab")
+                Container(xblocks7, "eolcontainer-xblock", $link="https://github.com/eol-uchile/eol-container-xblock/releases/tag/v1.1.0")
             
                 Container(xblocks8, "dialogsquestionsxblock-xblock", $link="https://github.com/eol-uchile/eol-dialogs-question-xblock/commit/6d866ffef7fb7b6f34a37670ac4d84715b921675")
             
