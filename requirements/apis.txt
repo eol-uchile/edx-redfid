@@ -1,1 +1,1 @@
--e git+https://github.com/cmmedu/redfid-edx-api.git@v1.1.0#egg=redfid_edx_api
+-e git+https://github.com/cmmedu/redfid-edx-api.git@v1.1.1#egg=redfid_edx_api
