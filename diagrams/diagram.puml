@@ -82,8 +82,6 @@ System_Boundary(c1, "edx-platform: edx-redfid", $link="https://github.com/eol-uc
             
                 Container(xblocks17, "xblock-drag-and-drop-v2", $link="https://github.com/eol-uchile/xblock-drag-and-drop-v2/commit/58d8a691cf9210220925f3d2957b39a377f6704c")
             
-                Container(xblocks18, "xblock_in_video_quiz", $link="https://github.com/eol-uchile/xblock-in-video-quiz/commit/1555dcbd96341f19b76f915f0135f46192869796")
-            
             }
         
     }
